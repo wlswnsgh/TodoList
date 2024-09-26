@@ -9,7 +9,6 @@
 
 # 📝 프로젝트 소개
 <img src="https://github.com/user-attachments/assets/fe33d96d-4198-47dc-afa9-1a5834f753b1">
-![bandicam 2024-09-25 15-29-03-298](https://github.com/user-attachments/assets/fe33d96d-4198-47dc-afa9-1a5834f753b1)
 
 # 💡 기술 스택
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
