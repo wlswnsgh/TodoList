@@ -8,7 +8,7 @@
 > 이 웹 기반 할 일 목록(TODOLIST) 웹은 사용자가 일상적인 작업을 간편하게 관리할 수 있도록 도와줍니다. 직관적인 인터페이스를 통해 할 일을 추가, 수정, 삭제하며, 완료한 작업은 체크할 수 있습니다. 개인의 생산성을 높이고, 체계적으로 일정을 관리하는 데 유용한 도구입니다!
 
 # 📝 프로젝트 소개
-<img width="30%" src="https://github.com/wlswnsgh/TodoList/issues/1#issue-2549491179" />
+<img width="70%" src="https://github.com/wlswnsgh/TodoList/issues/1#issue-2549491179" />
 
 # 💡 기술 스택
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
